@@ -1,0 +1,4 @@
+C:\Users\Administrator\Desktop\UIAutomation\bin\Release\CX.UIAutomation.dll
+C:\Users\Administrator\Desktop\UIAutomation\bin\Release\CX.UIAutomation.pdb
+C:\Users\Administrator\Desktop\UIAutomation\obj\Release\CX.UIAutomation.dll
+C:\Users\Administrator\Desktop\UIAutomation\obj\Release\CX.UIAutomation.pdb

@@ -1,0 +1,14 @@
+C:\Users\jxc015\Documents\Visual Studio 2010\Projects\InstantAuditTool\UIAutomation\bin\Debug\UIAutomation.dll
+C:\Users\jxc015\Documents\Visual Studio 2010\Projects\InstantAuditTool\UIAutomation\bin\Debug\UIAutomation.pdb
+C:\Users\jxc015\Documents\Visual Studio 2010\Projects\InstantAuditTool\UIAutomation\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jxc015\Documents\Visual Studio 2010\Projects\InstantAuditTool\UIAutomation\obj\Debug\UIAutomation.dll
+C:\Users\jxc015\Documents\Visual Studio 2010\Projects\InstantAuditTool\UIAutomation\obj\Debug\UIAutomation.pdb
+F:\马士基工作期间备份\Jacob Documents\Projects\X-Automaton 备份2013-01-23\UIAutomation\bin\Debug\UIAutomation.dll
+F:\马士基工作期间备份\Jacob Documents\Projects\X-Automaton 备份2013-01-23\UIAutomation\bin\Debug\UIAutomation.pdb
+F:\马士基工作期间备份\Jacob Documents\Projects\X-Automaton 备份2013-01-23\UIAutomation\obj\Debug\UIAutomation.csprojResolveAssemblyReference.cache
+F:\马士基工作期间备份\Jacob Documents\Projects\X-Automaton 备份2013-01-23\UIAutomation\obj\Debug\UIAutomation.dll
+F:\马士基工作期间备份\Jacob Documents\Projects\X-Automaton 备份2013-01-23\UIAutomation\obj\Debug\UIAutomation.pdb
+C:\Users\Administrator\Desktop\UIAutomation\bin\Debug\CX.UIAutomation.dll
+C:\Users\Administrator\Desktop\UIAutomation\bin\Debug\CX.UIAutomation.pdb
+C:\Users\Administrator\Desktop\UIAutomation\obj\Debug\CX.UIAutomation.dll
+C:\Users\Administrator\Desktop\UIAutomation\obj\Debug\CX.UIAutomation.pdb

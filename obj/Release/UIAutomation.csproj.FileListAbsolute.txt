@@ -1,0 +1,9 @@
+C:\Users\jxc015\Documents\Visual Studio 2010\Projects\InstantAuditTool\UIAutomation\bin\Release\UIAutomation.dll
+C:\Users\jxc015\Documents\Visual Studio 2010\Projects\InstantAuditTool\UIAutomation\bin\Release\UIAutomation.pdb
+C:\Users\jxc015\Documents\Visual Studio 2010\Projects\InstantAuditTool\UIAutomation\obj\Release\ResolveAssemblyReference.cache
+C:\Users\jxc015\Documents\Visual Studio 2010\Projects\InstantAuditTool\UIAutomation\obj\Release\UIAutomation.dll
+C:\Users\jxc015\Documents\Visual Studio 2010\Projects\InstantAuditTool\UIAutomation\obj\Release\UIAutomation.pdb
+C:\Users\Administrator\Desktop\UIAutomation\bin\Release\CX.UIAutomation.dll
+C:\Users\Administrator\Desktop\UIAutomation\bin\Release\CX.UIAutomation.pdb
+C:\Users\Administrator\Desktop\UIAutomation\obj\Release\CX.UIAutomation.dll
+C:\Users\Administrator\Desktop\UIAutomation\obj\Release\CX.UIAutomation.pdb
